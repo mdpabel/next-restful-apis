@@ -1,7 +1,8 @@
 ## APIS
 
-- Greeting
-- Dynamic Routes
+[] Greeting
+[] ]Dynamic Routes
+
 - Catch All Routes
 - Optional Catch All Routes
 - Verbs (methods)
